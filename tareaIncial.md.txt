@@ -1,0 +1,63 @@
+# sistemas-expertos 
+
+## 1.
+Lenguajes Imperativo :
+- Consiste en una secuencia claramente definida de instrucciones para un ordenador 
+y  se integran estructuras de control como bucles o estructuras anidadas en el código.
+-  Encadena instrucciones una detrás de otra que determinan lo que debe hacer el ordenador en cada momento para alcanzar un resultado deseado.
+-  Los valores utilizados en las variables se modifican durante la ejecución del programa.
+Lenguaje declarativo:
+- Se determina automáticamente la vía de solución, margen para la optimización
+   y requiere muchas líneas de texto fuente para describir lo que en los lenguajes de la programación declarativa se consigue con solo una parte de las instrucciones.
+- Es un procedimiento de ejecución mejor, el algoritmo integrado lo encuentra y lo aplica.
+- Es el paradigma está muy preparado para el futuro porque, al escribir el código, no es necesario determinar el procedimiento según el cual se alcanza el resultado.
+
+- ## 2.
+  ## Imperativos
+  ### Consultas
+  
+  -SQL:  para trabajar con conjuntos de datos y las relaciones entre ellos
+  Ejemplo App comercial: Microsoft 
+  -SPARQL:  lenguaje para la consulta de bases de datos almacenadas como tripletas RDF
+  Ejemplo App comercial:Análisis de Datos en la Industria Farmacéutica
+
+
+  ### Marcados
+
+  -HTML: Elabora etiquetas para diseñar y desarrollar paginas web
+  Ejemplo App Comercial:Un pagina web -> www.fcbarcelona.com
+  -XML: proporciona reglas para definir cualquier dato
+  Ejemplo App Comercial: La bbdd de la app movil de conselleria
+  ### Formal
+
+  -Z: Utilizado en ingeniería del software para la especificación formal de sistemas de información.
+  Ejemplo App comercial:Especificación Formal de un Protocolo de Comunicación
+  -ALLOY: Soportado por una amigable herramienta de verificación y validación.
+ Ejemplo App comercial: Verificación de un Sistema de Control de Vuelo para aviones
+  ### CONFIGURACION
+
+  -JSON: Trabaja para intercambiar informacion entre aplicaciones web o multiplataforma y con archivos de configuracion
+  Ejemplo App comercial:api rest de wordpress
+  -YAML:Formato de serialización de datos legible .
+    Ejemplo App comercial:BBDD de un hospital
+
+## Imperativos
+
+### POO
+-Java:  Es un lenguaje de programación y una plataforma informática que fue comercializada por Sun Microsystems
+-C++: Por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C y añadir mecanismos que permiten la manipulación de objetos
+### Procedimental
+-Fortran:Está especialmente adaptado al cálculo numérico y a la computación científica.
+App:
+-Pascal:
+### Estructurado
+-C
+-Ada
+### Alto nivel
+-Python
+-Ruby
+
+### Bajo nivel
+-Esamblador
+## Scripting
+-Javascript:
