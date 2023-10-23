@@ -48,16 +48,87 @@ Lenguaje declarativo:
 -C++: Por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C y añadir mecanismos que permiten la manipulación de objetos
 ### Procedimental
 -Fortran:Está especialmente adaptado al cálculo numérico y a la computación científica.
-App:
--Pascal:
+App: -No es comúnmente utilizado para desarrollar aplicaciones comerciales debido 
+a su orientación hacia aplicaciones científicas, de alto rendimiento e ingeniería.
+ Sin embargo, es técnicamente posible crear aplicaciones comerciales en Fortran 
+ si tienes una razón específica para hacerlo y estás dispuesto a enfrentar algunos desafíos.
+-Pascal:Es un lenguaje que permite programar en forma estructurada y modularizada.
+ Esto significa que es posible dividir al programa en módulos (implementados utilizando procedimientos y funciones) 
+ y organizado de manera tal que se pueda leer con facilidad.
+App:Aunque su popularidad ha disminuido en comparación con lenguajes más modernos, 
+aún se pueden crear aplicaciones comerciales efectivas en Pascal.
 ### Estructurado
--C
--Ada
+-C:Es un lenguaje estructurado, así que no requiere de 
+App:Videojuegos como minecraft
+-Ada Es un lenguaje estructurado y de forma estatica que fue diseñado por Jean Ichbiah
+App:Gestion de semaforos
 ### Alto nivel
--Python
--Ruby
-
+-Python: Es un lenguaje interpretado, lo que significa que ejecuta directamente el código línea por línea.
+ Si existen errores en el código del programa, su ejecución se detiene.
+ Así, los programadores pueden encontrar errores en el código con rapidez.
+ App:Pinterest
+-Ruby:Es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto
+App:Github
 ### Bajo nivel
--Esamblador
-## Scripting
--Javascript:
+-Ensamblador:Expresa las instrucciones de una forma más natural al hombre a la vez que muy cercana al microcontrolador
+App: MSDOS
+### Scripting
+-Javascript:Es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas
+App:Yahoo
+
+
+# 3. 
+- Son programas informáticos que tienen el objetivo de solucionar un problema concreto y utilizan la Inteligencia Artificial (IA)
+ para simular el razonamiento de un ser humano. Se denominan sistemas expertos porque estos programas imitan la toma de decisiones de un profesional en la materia.
+Actualmente, se consideran dentro del global de la Inteligencia Artificial. 
+Se crearon durante la década de los 60 (aunque alcanzaron su mayor popularidad en los años posteriores) y fueron uno de los primeros sistemas de Inteligencia Artificial utilizados con éxito.
+## Tipos de sistemas expertos
+
+Entre estos antecesores de la IA actual, encontramos varios tipos:
+
+    -RBO (Rule Based Reasoning)
+
+Están basados en reglas previamente establecidas y abordan las situaciones más complejas a través de reglas deterministas.
+
+    -CBR (Case Based Reasoning)
+
+Basados en casos. Es decir, solucionan problemas utilizando soluciones preexistentes y haciendo una analogía de problemas anteriores.
+
+    -Basados en Redes de Bayes
+
+Utilizan un conjunto de variables conocidas y su dependencia probabilística para deducir una solución. 
+Estos se utilizan principalmente en la predicción, clasificación o el diagnóstico de enfermedades y en medicina.
+
+Los sistemas expertos están compuestos por una base de conocimiento, que representa hechos y reglas concretos con una fórmula determinista (si A entonces B). Además, incluyen un motor de inferencia que aplica estas reglas a unos hechos conocidos para deducir así nuevas situaciones. También disponen de módulos de comunicación, como un módulo de consulta y otro de trabajo.
+Los sistemas expertos actuales, cuando se utilizan, suelen integrar capacidades de aprendizaje automático, como el machine o el deep learning. Esto les permite mejorar el rendimiento y sacar el máximo partido a la experiencia acumulada. Hace al sistema experto más experto.
+Entre las ventajas que ofrecen está la capacidad analítica y deductiva de una gran cantidad de información de forma muy rápida, lo que ahorra un tiempo muy valioso en la toma de decisiones que, de otro modo, habrían tenido que tomar seres humanos. Es, por lo tanto, un ahorro de tiempo y recursos, pues estos sistemas una vez programados pueden replicarse infinitamente y usarse por todo el mundo, con la ventaja añadida de que no envejecen.
+Sin embargo, en el paquete también se incluyen algunas desventajas considerables y que han provocado el desuso de muchos de estos sistemas por tecnologías con mejores prestaciones. Hablamos, por ejemplo, de la incapacidad para aprender que sí incluyen otros sistemas de IA, además de que para un sistema experto no existen deducciones más allá de las introducidas.
+
+### Ejemplos de aplicacion de los sistemas expertos
+Una de las principales funciones de estos sistemas es la relacionada con la salud. Sus aplicaciones en medicina son muy variadas y desde hace décadas se utilizan como sistemas de diagnóstico de enfermedades.
+Sus usos varían enormemente en función del campo para el que estén diseñados y, por ejemplo, en la industria y los negocios empresariales pueden realizar tareas de análisis de préstamos, optimización de almacenes logísticos, toma de decisiones financieras, gestión de datos, evaluación, control de procesos, etc.
+De forma más concreta, se pueden mencionar algunos sistemas que hicieron historia en el desarrollo de la Inteligencia Artificial. Es el caso de Dendral, un sistema experto desarrollado por Edward Feigenbaum y otros programadores en la Universidad de Stanford a mediados de la década de 1960, cuyo fin era interpretar estructuras moleculares y su desarrollo duró diez años. Posteriormente, se desarrolló el sistema Mycin, que estaba orientado a la investigación y determinación de diagnósticos de enfermedades infecciosas de la sangre.
+
+# 4. 
+
+CLIPS es un sistema experto desarrollado originalmente por Charles L. Forgy en 1985. Es un lenguaje de programación y entorno de desarrollo destinado a la creación de sistemas expertos, que son programas de inteligencia artificial diseñados para simular la toma de decisiones humanas basadas en reglas y conocimientos específicos.
+
+
+    Creador: Charles L. Forgy fue el creador original de CLIPS. Su desarrollo fue iniciado en 1985 en la NASA, donde trabajaba en la creación de sistemas expertos para el análisis de datos de vuelos espaciales.
+
+    Año de Creación: El desarrollo de CLIPS comenzó en 1985 y se liberó públicamente en 1987.
+
+    Mantenimiento Actual: CLIPS sigue siendo mantenido y actualizado por una comunidad de desarrolladores. Aunque ya no es una de las herramientas más modernas en el campo de la inteligencia artificial, sigue siendo útil para ciertos propósitos y es utilizado en aplicaciones donde se requiere razonamiento basado en reglas.
+
+# 5. 
+
+
+la IA está transformando la forma en que los sistemas expertos operan y cómo se utilizan en aplicaciones del mundo real. 
+Aunque la IA aporta avances significativos, los sistemas expertos siguen siendo una parte valiosa de la inteligencia artificial, 
+especialmente en escenarios donde la transparencia, la explicabilidad y la toma de decisiones basadas en reglas son críticas. 
+La clave está en la integración efectiva de estas tecnologías para lograr resultados óptimos.
+
+
+# 6. 
+
+Para que el código imprima "jirafa," los hechos iniciales que has proporcionado en (deffacts hechos-iniciales ...) deben ser ajustados de la siguiente manera
